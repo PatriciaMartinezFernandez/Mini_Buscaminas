@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mini Buscaminas</string>
+    <string name="new_game">NUEVO JUEGO</string>
+    <string name="solve">RESOLVER</string>
+    <string name="playing">JUGANDO!</string>
+    <string name="game_over">HAS PERDIDO!</string>
+    <string name="solved">HAS GANADO!</string>
+    <string name="points">PUNTOS:</string>
+</resources>

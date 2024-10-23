@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mini Buscaminas</string>
+    <string name="new_game">NEW GAME</string>
+    <string name="solve">SOLVE</string>
+    <string name="playing">PLAYING!</string>
+    <string name="game_over">GAME OVER!</string>
+    <string name="solved">SOLVED!</string>
+    <string name="points">POINTS:</string>
+</resources>
